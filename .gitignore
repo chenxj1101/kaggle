@@ -1,3 +1,4 @@
 **/*.zip
 .ipynb_checkpoints/.gitignore-checkpoint
 .virtual_documents/
+.ipynb_checkpoints/
